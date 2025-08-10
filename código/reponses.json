@@ -1,0 +1,74 @@
+
+"gtm.js"
+
+"gtm.dom"
+
+"gtm.load"
+
+
+
+
+"productDetail"
+
+"productDetail"
+
+{
+  "event": "productDetail",
+  "ecommerce": {
+    "detail": {
+      "products": [
+        {
+          "id": "20114381",
+          "name": "MAGIA BLANCA BLANQ. REG 4/1GLN",
+          "category": ""
+        }
+      ]
+    },
+    "impressions": []
+  },
+  "gtm.uniqueEventId": 4
+}
+
+
+
+
+{
+  "event": "addToCart",
+  "ecommerce": {
+    "currencyCode": "USD",
+    "add": {
+      "products": [
+        {
+          "id": "20114381",
+          "name": "MAGIA BLANCA BLANQ. REG 4/1GLN",
+          "price": 3.35,
+          "quantity": 3
+        }
+      ]
+    }
+  },
+  "gtm.uniqueEventId": 9
+}
+
+
+{
+  "event": "productDetail",
+  "ecommerce": {
+    "detail": {
+      "products": [
+        {
+          "id": "20136999",
+          "name": "LA CROIX SPRKING CHERRY BLOSSOM 24/12OZ",
+          "category": ""
+        }
+      ]
+    },
+    "impressions": []
+  },
+  "gtm.uniqueEventId": 4
+}
+
+{
+  "event": "gtm.dom",
+  "gtm.uniqueEventId": 5
+}
